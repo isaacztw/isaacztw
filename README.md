@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi , I'm Isaacztw
 
-<!--
-**isaacztw/isaacztw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Junior Systems Developer | JavaScript & CSS Specialist**  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+I build **scalable products**, **high-performance web systems**.  
+I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/isaacztw">
+    <img src="https://img.shields.io/badge/GitHub-ISAACZTW-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/isaacztw">
+    <img src="https://img.shields.io/badge/Instagram-@ISAACZTW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 What I do
+
+-   ⚡ Performance optimization
+-   🧩 Clean architecture & system design
+-   🤖 Automation
+-   🎓 Teaching & mentoring developers
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![CSS](https://img.shields.io/badge/CSS-512BD4?style=for-the-badge&logo=css)
+![HTML](https://img.shields.io/badge/HTML-F87C17?style=for-the-badge&logo=html)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
