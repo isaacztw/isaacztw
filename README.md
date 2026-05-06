@@ -60,3 +60,13 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaacztw/isaacztw/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isaacztw/isaacztw/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/isaacztw/isaacztw/output/pacman-contribution-graph.svg">
+</picture>
+
+###
