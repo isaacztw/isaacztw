@@ -44,7 +44,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/Python-FFDA40?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-5849BE?style=for-the-badge&logo=php)
+![PHP](https://img.shields.io/badge/Php-5849BE?style=for-the-badge&logo=php)
 
 ### DevOps & Tools
 
