@@ -37,6 +37,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![CSS](https://img.shields.io/badge/CSS-512BD4?style=for-the-badge&logo=css)
 ![HTML](https://img.shields.io/badge/HTML-F87C17?style=for-the-badge&logo=html)
+![React](https://img.shields.io/badge/React-FFDA40?style=for-the-badge&logo=react)
 
 ### Backend
 
