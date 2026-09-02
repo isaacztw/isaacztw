@@ -49,6 +49,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![SupaBase](https://img.shields.io/badge/SupaBase-339933?style=for-the-badge&logo=supabase)
 
 ---
 
